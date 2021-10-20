@@ -1,1 +1,3 @@
+<a href="https://india12.github.io/google-homepage/">Check it out!</a>
+
 ...short repetition of HTML, CSS, GIT and GitHub knowledge...
